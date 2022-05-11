@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarzaAccountLogger", "DarzaAccountLogger\DarzaAccountLogger.csproj", "{D92FD6A9-7E86-4FB9-873C-D9E8E80614DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D92FD6A9-7E86-4FB9-873C-D9E8E80614DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92FD6A9-7E86-4FB9-873C-D9E8E80614DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92FD6A9-7E86-4FB9-873C-D9E8E80614DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92FD6A9-7E86-4FB9-873C-D9E8E80614DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {352609D5-1234-4B4D-AF53-542BCE242D47}
+	EndGlobalSection
+EndGlobal
